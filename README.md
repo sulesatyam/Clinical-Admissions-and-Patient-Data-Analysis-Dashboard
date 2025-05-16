@@ -1,6 +1,3 @@
-# Clinical-Admissions-and-Patient-Data-Analysis-Dashboard\
-
-
 # Clinical Admissions & Patient Profile Analysis Dashboard
 
 ## Overview
